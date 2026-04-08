@@ -5,3 +5,33 @@ The project focuses on transforming raw transaction data into actionable insight
 
 ## Dataset
 <a href="https://github.com/muralinarru77-cyber/Purchase-PatternAnalysis/blob/main/Purchase_Pattern_Analysis.xlsx" target="_blank">Transaction Dataset</a>
+
+## Tasks(KPIs)
+## Tasks(KPIs):
+Familiarize the team with the project objectives and expectations.
+Acquire and load the Transaction dataset.
+Begin Exploratory Data Analysis (EDA):
+Identify key statistics (mean, median, mode, etc.).
+Visualize data distributions and patterns.
+Detect any outliers or missing values.
+Deliverables:
+Kick-off meeting summary.
+Initial exploratory data analysis report and Domain analysis.
+Data Cleaning and Transformation:
+Address missing values, outliers, and inconsistencies.
+Transform the dataset into a suitable format for market basket analysis.
+Document the data cleaning steps.
+Deliverables:
+Cleaned and transformed dataset.
+Documentation of data cleaning process.
+Data Visualization and Apriori Algorithm Implementation:
+Create visualizations to represent product occurrences, associations, and trends.
+Implement the Apriori algorithm for market basket analysis:
+Identify frequent item sets and association rules.
+Visualize the results of the Apriori algorithm.
+Deliverables:
+Visualizations illustrating product relationships.
+Apriori algorithm implementation.
+
+
+
