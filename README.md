@@ -45,6 +45,9 @@ Review and Iteration:
 Conduct a review of the entire project with the team.
 Address any feedback or suggestions for improvement.
 Make necessary iterations to enhance the project's quality.
+<a href="https://github.com/muralinarru77-cyber/Purchase-Pattern-Analysis/blob/main/Purchase%20Pattern%20Analysis%20Dashboard.jpeg" target="_blank">
+View Dashboard
+</a>
 
 
 
