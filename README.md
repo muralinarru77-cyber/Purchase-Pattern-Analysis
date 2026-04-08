@@ -49,7 +49,7 @@ Make necessary iterations to enhance the project's quality.
 View Dashboard
 </a>
 
-## Market Basket Analysis – Short Process
+## Market Basket Analysis 
  Kick-off & EDA
 Understand project objectives and dataset 
 Perform Exploratory Data Analysis (EDA) 
