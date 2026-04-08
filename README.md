@@ -70,6 +70,11 @@ Interpret results and key patterns
 Provide business recommendations 
 Prepare presentation and documentation.
 
+## Jupyter NoteBook
+<a href="https://github.com/muralinarru77-cyber/Purchase-Pattern-Analysis/blob/main/Transaction_dataset%20(1).ipynb" target="_blank">
+View Jupyter Notebook
+</a>
+
 ## Key Insights 
 Customers frequently purchase certain products together, revealing strong product associations. 
 A small group of items contributes to most transactions (high-frequency products). 
@@ -77,14 +82,6 @@ Association rules (high confidence & lift) highlight cross-selling opportunities
 Some products act as “trigger items” that lead to additional purchases. 
 Seasonal or category-based buying patterns are visible in the data. 
 Data cleaning significantly improved the accuracy of analysis results.
-
-
-
-
-## Jupyter NoteBook
-<a href="https://github.com/muralinarru77-cyber/Purchase-Pattern-Analysis/blob/main/Transaction_dataset%20(1).ipynb" target="_blank">
-View Jupyter Notebook
-</a>
 
 
 
