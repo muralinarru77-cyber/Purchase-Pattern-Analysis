@@ -7,7 +7,6 @@ The project focuses on transforming raw transaction data into actionable insight
 <a href="https://github.com/muralinarru77-cyber/Purchase-PatternAnalysis/blob/main/Purchase_Pattern_Analysis.xlsx" target="_blank">Transaction Dataset</a>
 
 ## Tasks(KPIs)
-## Tasks(KPIs):
 Familiarize the team with the project objectives and expectations.
 Acquire and load the Transaction dataset.
 Begin Exploratory Data Analysis (EDA):
@@ -32,6 +31,21 @@ Visualize the results of the Apriori algorithm.
 Deliverables:
 Visualizations illustrating product relationships.
 Apriori algorithm implementation.
+Insights, Recommendations, and Finalization:
+Summarize findings from the market basket analysis.
+Formulate actionable insights and recommendations for the business.
+Prepare a presentation for stakeholders.
+Document the entire process, including data cleaning, algorithm implementation, and
+interpretation of results.
+Deliverables:
+Insights and recommendations report.
+Presentation slides for communicating the results to stakeholders.
+Final project documentation.
+Review and Iteration:
+Conduct a review of the entire project with the team.
+Address any feedback or suggestions for improvement.
+Make necessary iterations to enhance the project's quality.
+
 
 
 
