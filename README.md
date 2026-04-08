@@ -83,5 +83,9 @@ Some products act as “trigger items” that lead to additional purchases.
 Seasonal or category-based buying patterns are visible in the data. 
 Data cleaning significantly improved the accuracy of analysis results.
 
+## Final Conclusion
+
+The Market Basket Analysis project successfully identified meaningful patterns and relationships within transaction data using Exploratory Data Analysis (EDA), data preprocessing, and the Apriori algorithm. By transforming raw data into a structured format and applying association rule mining techniques, the project revealed frequently purchased item combinations and strong product associations.
+The analysis demonstrated how customer purchasing behavior can be leveraged to generate actionable business insights. Key findings enable strategies such as product bundling, cross-selling, targeted promotions, and optimized store layouts, ultimately improving customer experience and increasing revenue.
 
 
