@@ -49,6 +49,10 @@ Make necessary iterations to enhance the project's quality.
 View Dashboard
 </a>
 
+## Jupyter NoteBook
+<a href="https://github.com/muralinarru77-cyber/Purchase-Pattern-Analysis/blob/main/Transaction_dataset%20(1).ipynb" target="_blank">
+View Jupyter Notebook
+</a>
 
 
 
