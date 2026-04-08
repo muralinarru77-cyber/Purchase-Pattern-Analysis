@@ -4,4 +4,4 @@ The primary objective of this project is to analyze transactional data to uncove
 The project focuses on transforming raw transaction data into actionable insights that can support business decision-making. These insights are intended to enhance strategies such as cross-selling, product bundling, inventory management, and store layout optimization.
 
 ## Dataset
-- <a herf="https://github.com/muralinarru77-cyber/Purchase-PatternAnalysis/blob/main/Purchase_Pattern_Analysis.xlsx">Dataset</a>
+<a href="https://github.com/muralinarru77-cyber/Purchase-PatternAnalysis/blob/main/Purchase_Pattern_Analysis.xlsx" target="_blank">Transaction Dataset</a>
