@@ -68,7 +68,17 @@ Visualize product relationships
 Insights & Finalization
 Interpret results and key patterns 
 Provide business recommendations 
-Prepare presentation and documentation
+Prepare presentation and documentation.
+
+## Key Insights 
+Customers frequently purchase certain products together, revealing strong product associations. 
+A small group of items contributes to most transactions (high-frequency products). 
+Association rules (high confidence & lift) highlight cross-selling opportunities. 
+Some products act as “trigger items” that lead to additional purchases. 
+Seasonal or category-based buying patterns are visible in the data. 
+Data cleaning significantly improved the accuracy of analysis results.
+
+
 
 
 ## Jupyter NoteBook
