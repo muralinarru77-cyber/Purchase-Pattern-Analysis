@@ -49,6 +49,28 @@ Make necessary iterations to enhance the project's quality.
 View Dashboard
 </a>
 
+## Market Basket Analysis – Short Process
+ Kick-off & EDA
+Understand project objectives and dataset 
+Perform Exploratory Data Analysis (EDA) 
+Analyze statistics, visualize patterns 
+Identify missing values and outliers 
+Data Cleaning & Transformation
+Handle missing values and inconsistencies 
+Remove outliers and duplicates 
+Convert data into transaction format 
+Document preprocessing steps 
+ Visualization & Apriori
+Create product and trend visualizations 
+Apply Apriori algorithm 
+Generate frequent item sets and association rules 
+Visualize product relationships 
+Insights & Finalization
+Interpret results and key patterns 
+Provide business recommendations 
+Prepare presentation and documentation
+
+
 ## Jupyter NoteBook
 <a href="https://github.com/muralinarru77-cyber/Purchase-Pattern-Analysis/blob/main/Transaction_dataset%20(1).ipynb" target="_blank">
 View Jupyter Notebook
